@@ -1,3 +1,6 @@
+# helpful command to prevent automatic transformation of datasets when pushing:
+# git config --global core.autocrlf false
+
 # Requirements
 # Code and demo will be marked individually based on
 # 1. Executability (2)
